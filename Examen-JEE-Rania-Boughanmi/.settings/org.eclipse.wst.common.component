@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Examen-JEE-Rania-Boughanmi">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="Examen-JEE-Rania-Boughanmi-web.war" deploy-path="/" handle="module:/resource/Examen-JEE-Rania-Boughanmi-web/Examen-JEE-Rania-Boughanmi-web">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="Examen-JEE-Rania-Boughanmi-EJB.jar" deploy-path="/" handle="module:/resource/Examen-JEE-Rania-Boughanmi-EJB/Examen-JEE-Rania-Boughanmi-EJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
